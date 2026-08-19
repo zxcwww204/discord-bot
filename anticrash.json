@@ -1,0 +1,19 @@
+{
+  "users": {},
+  "localbans": {
+    "548914672754098210": {
+      "old_roles": [
+        1536097780894793738
+      ],
+      "timestamp": "2026-08-10T13:29:36.650399",
+      "reason": "Отправка ссылки: https://discord.com/api/webhooks/1536441173323808870/daZCEF4L8WaCmNIQFQku7eyQ2bjCL08AjCIHaUr9Ry1hFv5"
+    },
+    "1390969160887959573": {
+      "old_roles": [
+        1536091219053121637
+      ],
+      "timestamp": "2026-08-10T13:31:38.377564",
+      "reason": "Отправка ссылки: https://discord-tracker.com/tracker/user/595710607039135745/"
+    }
+  }
+}

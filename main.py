@@ -12,8 +12,9 @@ from datetime import datetime
 # НАСТРОЙКИ
 # ============================================
 
-TOKEN = "DISCORD_TOKEN"
-GUILD_ID = 0
+import os
+
+TOKEN = os.getenv("TOKEN")
 
 OWNER_IDS = [1134940528081911919, 595710607039135745]
 
